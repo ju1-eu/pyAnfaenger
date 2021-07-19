@@ -7,7 +7,7 @@
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
     "files.autoSave": "onFocusChange",
     "files.associations": {
       "*.pyx": "python"
