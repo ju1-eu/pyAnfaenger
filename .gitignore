@@ -1,13 +1,15 @@
+.mypy_cache
+.pytest_cache
+!.vscode
+.vscode/c_cpp_properties.json
+.DS_Store
+export/
+code/__pycache__/
+
 data/
 logs/
 models/
-!.vscode/
-settings.json
-launch.json
-tasks.json
 .benchmarks/
-
-Chapter1_Intro/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
