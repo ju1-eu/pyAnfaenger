@@ -14,6 +14,6 @@ noten_min = np.min(noten_np_array)
 noten_arg_max = np.argmax(noten_np_array)
 noten_arg_min = np.argmin(noten_np_array)
 
-#
+# mittelwert und median
 noten_mean = np.mean(noten_np_array)
 noten_median = np.median(noten_np_array)
