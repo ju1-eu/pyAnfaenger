@@ -5,6 +5,7 @@
 .DS_Store
 export/
 code/__pycache__/
+code/.DS_Store
 
 data/
 logs/
